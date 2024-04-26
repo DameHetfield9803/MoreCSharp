@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Codes\C#Codes\part1\part1\part2\SalaryAfterCPF\SalaryAfterCPF\bin\Debug\net8.0\SalaryAfterCPF.exe
+C:\Users\User\Desktop\Codes\C#Codes\part1\part1\part2\SalaryAfterCPF\SalaryAfterCPF\bin\Debug\net8.0\SalaryAfterCPF.deps.json
+C:\Users\User\Desktop\Codes\C#Codes\part1\part1\part2\SalaryAfterCPF\SalaryAfterCPF\bin\Debug\net8.0\SalaryAfterCPF.runtimeconfig.json
+C:\Users\User\Desktop\Codes\C#Codes\part1\part1\part2\SalaryAfterCPF\SalaryAfterCPF\bin\Debug\net8.0\SalaryAfterCPF.dll
+C:\Users\User\Desktop\Codes\C#Codes\part1\part1\part2\SalaryAfterCPF\SalaryAfterCPF\bin\Debug\net8.0\SalaryAfterCPF.pdb
+C:\Users\User\Desktop\Codes\C#Codes\part1\part1\part2\SalaryAfterCPF\SalaryAfterCPF\obj\Debug\net8.0\SalaryAfterCPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Codes\C#Codes\part1\part1\part2\SalaryAfterCPF\SalaryAfterCPF\obj\Debug\net8.0\SalaryAfterCPF.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Codes\C#Codes\part1\part1\part2\SalaryAfterCPF\SalaryAfterCPF\obj\Debug\net8.0\SalaryAfterCPF.AssemblyInfo.cs
+C:\Users\User\Desktop\Codes\C#Codes\part1\part1\part2\SalaryAfterCPF\SalaryAfterCPF\obj\Debug\net8.0\SalaryAfterCPF.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Codes\C#Codes\part1\part1\part2\SalaryAfterCPF\SalaryAfterCPF\obj\Debug\net8.0\SalaryAfterCPF.dll
+C:\Users\User\Desktop\Codes\C#Codes\part1\part1\part2\SalaryAfterCPF\SalaryAfterCPF\obj\Debug\net8.0\refint\SalaryAfterCPF.dll
+C:\Users\User\Desktop\Codes\C#Codes\part1\part1\part2\SalaryAfterCPF\SalaryAfterCPF\obj\Debug\net8.0\SalaryAfterCPF.pdb
+C:\Users\User\Desktop\Codes\C#Codes\part1\part1\part2\SalaryAfterCPF\SalaryAfterCPF\obj\Debug\net8.0\SalaryAfterCPF.genruntimeconfig.cache
+C:\Users\User\Desktop\Codes\C#Codes\part1\part1\part2\SalaryAfterCPF\SalaryAfterCPF\obj\Debug\net8.0\ref\SalaryAfterCPF.dll

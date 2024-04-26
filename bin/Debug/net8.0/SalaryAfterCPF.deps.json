@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SalaryAfterCPF/1.0.0": {
+        "runtime": {
+          "SalaryAfterCPF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SalaryAfterCPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
